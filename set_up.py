@@ -8,7 +8,7 @@ def main():
         author="OpenBMB",
         author_email="ranchizhao@gmail.com",
         packages=find_packages(exclude='cpm_live'),
-        url="https://github.com/OpenBMB/BMCook",
+        url="https://github.com/RanchiZhao/cpm_live",
         license="Apache 2.0"
     )
 
